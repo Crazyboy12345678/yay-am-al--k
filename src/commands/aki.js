@@ -1,4 +1,3 @@
-//Bu Kod Faruk#6126 Tarafından Kodlanmıştır
 
 const akinator = require("discord.js-akinator")// version: 4.0.1
 
@@ -37,4 +36,3 @@ module.exports = {
         });
     }
 }
-//Bu Kod Faruk#6126 Tarafından Kodlanmıştır
