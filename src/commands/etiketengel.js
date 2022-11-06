@@ -1,4 +1,3 @@
-//Bu Kod Faruk#6126 Tarafından Kodlanmıştır
 
 const Discord = require('discord.js') // version: 14.2.0
 
@@ -55,5 +54,3 @@ module.exports = {
         } 
 	},
 };
-
-//Bu Kod Faruk#6126 Tarafından Kodlanmıştır
